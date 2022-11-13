@@ -113,16 +113,16 @@ h2{
   margin-left:12%;
   font-weight: bold;
 }
-.main{
+.main, .top-authors, .name{
   font-family:'Poppins', sans-serif;
 
 }
 .main1{
   text-align: center;
   margin-top: 10%;
-  margin-bottom: 15%;
+  margin-bottom: 10%;
 }
-.top-stories{
+.top-stories, .top-authors{
   margin-bottom:10%;
   font-size: 30px;
   font-weight: bold;
@@ -204,4 +204,38 @@ h2{
   font-family: 'Lora', serif;
   margin-inline-end: 12%;
   text-align:start;
+}
+.top-authors{
+  text-align: center;
+  filter: none;
+}
+.authors{
+  margin-bottom: 40%;
+  
+}
+.authors1, .authors2, .authors3{
+  position:absolute;
+  margin-left: 9%;
+  text-align: center;
+
+}
+.authors2{
+  margin-left: 40%;
+}
+.authors3{
+  margin-left: 67%;
+}
+.name{
+  font-size: 28px;
+  color:rgb(241, 108, 108);
+  margin-top: 5%;
+}
+.dis{
+  font-size: 18px;
+  font-family: 'Lora', serif;
+  color: gray;
+  margin-top: 2.5%;
+}
+.cris,.katie, .scarlette{
+  width: 200px;
 }
