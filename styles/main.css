@@ -64,7 +64,7 @@ ol[class] {
 }
 .top{
   text-decoration: none;
-  color: rgb(69, 6, 103);
+  color: #3D2892;
   margin-right: 80px;
   margin-left: -60px;
 }
@@ -72,11 +72,11 @@ ol[class] {
   font-family:Calibri;
   font-weight: bold;
   font-size: 30px;
-  color: rgb(83, 0, 128);
+  color: #3D2892;
   margin-left: 10%;
 }
 .logo1{
-  color:rgb(237, 90, 90);
+  color:#F55D3A;
 }
 .Image{
   margin-left: 72%;
@@ -88,7 +88,7 @@ h1{
   text-transform: uppercase;
   margin-left:12% ;
   margin-top: 3%;
-  color: rgb(237, 90, 90);
+  color: #F55D3A;
 }
 h2{
   font-size:32px ;
@@ -99,7 +99,7 @@ h2{
 .started{
   filter: drop-shadow(0px 0px 5px gray);
   margin-top: 3%;
-  background-color: rgb(46, 4, 112);
+  background-color: #3D2892;
   border: none;
   color: white;
   border-radius: 5px;
@@ -128,8 +128,8 @@ h2{
   font-size: 30px;
   font-weight: bold;
   text-decoration: none;
-  color: rgb(46, 4, 112);
-  filter: drop-shadow(1px 2px 4px rgba(128, 128, 128, 0.449));
+  color: #3D2892;
+  filter: drop-shadow(1px 1px 4px rgba(128, 128, 128, 0.368));
 }
 
 .paramdam{
@@ -145,20 +145,20 @@ h2{
   width: 170px;
   margin-top: 12.6%;
   margin-left:13.3% ;
-  background-color:rgb(241, 108, 108);
+  background-color:#F55D3A;
   position: absolute;
   border-radius: 7px;
 }
 .box1{
   margin-top: -0.7%;
   margin-left:20.5%;
-  background-color:rgb(43, 160, 167);
+  background-color:#1AC3C3;
 }
 .title-paramdam{
   margin-bottom: 2%;
   margin-left: 3%;
   font-size: 28px;
-  color: rgb(46, 4, 112);
+  color: #3D2892;
 }
 .sub{
   margin-left: 45%;
@@ -175,7 +175,7 @@ h2{
   font-size: 20px;
   font-weight: bold;
   margin-top: 2%;
-  color:rgb(241, 108, 108);
+  color:#F55D3A;
   margin-left: -0.3%;
   filter: drop-shadow(1px 1px 4px rgba(128, 128, 128, 0.244));
 }
@@ -193,7 +193,7 @@ h2{
   margin-bottom: 2%;
   margin-left: -61%;
   font-size: 28px;
-  color: rgb(46, 4, 112);
+  color: #3D2892;
 }
 .sub1{
   margin-right: 40%;
@@ -228,7 +228,7 @@ h2{
 }
 .name{
   font-size: 28px;
-  color:rgb(241, 108, 108);
+  color:#F55D3A;
   margin-top: 5%;
 }
 .dis{
@@ -269,7 +269,7 @@ h2{
   margin-left:80%;
   padding: 5px 20px;
   border-radius: 5%;
-  background-color: rgb(58, 9, 138);
+  background-color: #3D2892;
   color: #FFFAFB;
   font-size: 18px;
   font-weight: bold;
